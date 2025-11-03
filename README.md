@@ -48,19 +48,19 @@ El proyecto **CallMeMaybe EDA** establece las bases para el desarrollo de una **
 ---
 
 ### 🚀 Cómo ejecutar el proyecto
-
-### 1️⃣ Clonar el repositorio
-bash
+---
+## 1️⃣ Clonar el repositorio
+- bash
 git clone https://github.com/johndom10/Proyecto-CallMeMaybe
 cd callmemaybe
 ---
 ### 2️⃣ Crear un entorno virtual (opcional pero recomendado)
-python -m venv venv
+- python -m venv venv
 source venv/bin/activate    # En macOS/Linux
 venv\Scripts\activate       # En Windows
 ---
 ### 3️⃣ Instalar dependencias 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 ---
 
 
