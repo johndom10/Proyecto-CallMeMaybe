@@ -47,10 +47,10 @@ El proyecto **CallMeMaybe EDA** establece las bases para el desarrollo de una **
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+### 🚀 Cómo ejecutar el proyecto
 
 ### 1️⃣ Clonar el repositorio
-```bash
+bash
 git clone https://github.com/johndom10/Proyecto-CallMeMaybe
 cd callmemaybe
 ---
