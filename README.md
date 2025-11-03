@@ -61,8 +61,8 @@ venv\Scripts\activate       # En Windows
 
 ### 3️⃣ Instalar dependencias 
 pip install -r requirements.txt
+---
 
 ### 👤 Autor
 **Jonathan Noe Domínguez Hernández**  
 📧 [LinkedIn](https://www.linkedin.com/in/johndom10) | 💻 [GitHub](https://github.com/johndom10) | 📊https://bit.ly/Proyecto-CallMeMaybe
----
