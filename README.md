@@ -49,6 +49,6 @@ El proyecto **CallMeMaybe EDA** establece las bases para el desarrollo de una **
 
 ### 👤 Autor
 **Jonathan Noe Domínguez Hernández**  
-📧 [LinkedIn](https://www.linkedin.com/in/johndom10) | 💻 [GitHub](https://github.com/jonathan-dominguez)
+📧 [LinkedIn](https://www.linkedin.com/in/johndom10) | 💻 [GitHub](https://github.com/johndom10)
 
 ---
